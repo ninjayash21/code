@@ -1,9 +1,11 @@
 #include <iostream>
 using namespace std;
-
+// happy coding
 int main() {
 	int t;
 	cin >> t;
+	short kdjs;
+	long pq;
 	while(t--){
 	    int n,k,x,y,c=0;
 	    cin >> n >> k >> x >> y;
